@@ -67,7 +67,7 @@ html{
    font-weight: bold;
 }
 
-/* Optional blinking cursor */
+/* Cursor */
 @keyframes blink-caret {
    from, to { border-color: transparent; }
    50% { border-color: rgba(255, 255, 255, 0.75); }
@@ -389,7 +389,7 @@ form .btn2{
 .copyright i{
    color: green;
 }
-/* ---- for small screens*/
+/* ----small screens*/
 nav .fas{
    display: none;
 }
